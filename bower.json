@@ -1,8 +1,9 @@
 {
-  "name": "hawkular-alerts",
-  "version": "0.1.0",
+  "name": "hawkular-alerts-ui",
+  "version": "0.2.0",
   "keywords": [
-    "hawtio"
+    "hawtio",
+    "hawkular alerts"
   ],
   "main": [
     "dist/hawkular-alerts.js"
